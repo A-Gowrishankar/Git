@@ -1,5 +1,3 @@
-Hello
-
 commands(deletion)
 1. del filename
 2. git checkout --filename

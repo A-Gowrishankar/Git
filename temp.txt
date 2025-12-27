@@ -1,4 +1,4 @@
-commands(deletion)
+Git commands(deletion):
 1. del filename
 2. git checkout --filename
 3. git rm filename
@@ -8,4 +8,3 @@ commands(deletion)
 7. git reset --soft HEAD~1
 8. git reset --hard HEAD~1
 9. git reset --mixed HEAD~1
----

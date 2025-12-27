@@ -1,1 +1,12 @@
 Hello
+
+commands(deletion)
+1. del filename
+2. git checkout --filename
+3. git rm filename
+4. git rm --catched filename
+5. git reset HEAD filename
+6. git restore --staged filename
+7. git reset --soft HEAD~1
+8. git reset --hard HEAD~1
+9. git reset --mixed HEAD~1
